@@ -1,4 +1,4 @@
-# WTGAHRS2
+# WTGAHRS1
 Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
 
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/WTGAHRS2
+https://github.com/WITMOTION/WTGAHRS1
 
 Google Drive: 
-https://drive.google.com/open?id=1-ABAdZinHVIOFj4EbG0BjiA4Sj5-1Zlq
+https://drive.google.com/open?id=1o2nzq9EXBvQBjAVwQYGunxMFDnYvOGiQ
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-WTGAHRS2 Playlist: 
-https://www.youtube.com/playlist?list=PL43tdDrVL_VAnTgmJ7_FJzNjxCTeR4mUZ
+WTGAHRS1 Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VB_u4DZe5YBbpL863jAa1lJ
 
 -----------
 After-sale Service& Technical Support: 
